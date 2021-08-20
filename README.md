@@ -1,2 +1,1 @@
-SHAPEAI PYTHON AND MACHINE LEARNING BOOTCAMP
-A project during the 7 Days Free Bootcamp, conducted by SHAPEAI
+A project during the 7 Days Free Bootcamp on python and ML, conducted by SHAPEAI
